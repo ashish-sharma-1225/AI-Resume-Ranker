@@ -47,4 +47,4 @@ AI-Resume-Ranker/
 - Resume feedback generation
 
 ## Live Demo
-Coming Soon
+https://ai-resume-ranker-acoolproject.streamlit.app/
